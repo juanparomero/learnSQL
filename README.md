@@ -36,7 +36,8 @@ It starts with simple selects and progresses in complexity by adding the use of 
 4. [Data Definition Language](https://forms.gle/LEALgo3rRHbToX897)
 
 ## Tutorials
-- [Learn SQL in less than 20 hours](https://www.amazon.es/dp/B084NY3VP7/ref=sr_1_3?__mk_es_ES=ÅMÅŽÕÑ&keywords=aprende+sql&qid=1581454483&sr=8-3)
+- [Learn SQL in less than 20 hours](https://www.amazon.com/dp/B0D77XR2WJ)
+- [Aprende SQL en menos de 20 hours](https://www.amazon.es/dp/B084NY3VP7)
 - [Install Oracle Express Edition XE 18c (Windows)](https://youtu.be/QAAeIQQYN_A)
 - [Uninstall Oracle Express Edition XE 18c (Windows)](https://youtu.be/t52JaQWfrE8)
 - [Create HR sample schema in Oracle XE](https://youtu.be/GLbT72Hm83M)
